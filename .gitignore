@@ -34,5 +34,5 @@ npm-debug.log
 /priv/static/
 
 prod-env.sh
-prod.secret.exs
+#prod.secret.exs
 .idea
